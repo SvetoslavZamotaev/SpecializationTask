@@ -1,0 +1,1 @@
+﻿string[] startArr = { "Doom", "GTA", "Hunt", "^^)", "<3", "OpenGL", "D2", "Gothic", "1984" };
